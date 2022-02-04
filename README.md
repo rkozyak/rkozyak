@@ -2,7 +2,7 @@
 <p align='center'>
 
 </p>
-<div size='20px'> Hi! My name is Richard. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Richard. I'm a dedicated student based in the US and hoping to learn as much as possible :smile: 
 </div>
 
 <h2> About Me </h2>
