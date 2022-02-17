@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on my own website (**WOOO!**)
 
-- 🌱 I’m currently learning Java, React and Swift! 
+- 🌱 I’m currently learning Java, React, Swift and LaTeX! 
 
 - 💬 Talk to me about computer hardware and games! 
 
